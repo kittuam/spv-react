@@ -24,7 +24,7 @@ function App() {
 
           <div className="collapse navbar-collapse justify-content-center" id="menu">
             <ul className="navbar-nav align-items-center">
-              <li className="nav-item"><a className="nav-link" href="#">HOME</a></li>
+              <li className="nav-item"><a className="nav-link" href="#">H</a></li>
               <li className="nav-item"><a className="nav-link" href="#">PORTFOLIO STYLES</a></li>
               <li className="nav-item"><a className="nav-link" href="#">TUTORIALS</a></li>
               <li className="nav-item"><a className="nav-link" href="#">DOCUMENTATION</a></li>
